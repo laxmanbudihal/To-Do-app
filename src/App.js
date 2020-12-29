@@ -52,7 +52,7 @@ function App() {
   return (
     <div className="container">
       <div className="header">
-        <h1>JOO TO-DO APP</h1>
+        <h1>Laxman TO-DO APP</h1>
       </div>
       <div className="inputControl">
         <input
